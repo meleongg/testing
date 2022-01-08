@@ -13,6 +13,3 @@ main code changes
 
 even more code changes
 feature 2 work
-
-
-THIS CHANGE WILL BREAK EVERYTHING
